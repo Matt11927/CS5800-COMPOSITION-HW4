@@ -22,7 +22,7 @@ php_demo1
               migrations
               models
               views
-              cache
+      cache
       public
           .htaccess
           htrouter.php
